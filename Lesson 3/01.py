@@ -21,4 +21,3 @@ def cubed(args):
         if args[i] % 2 == 0:
             res.append(args[i]**3)
     return res
-
